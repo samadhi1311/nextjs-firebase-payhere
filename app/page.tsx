@@ -15,7 +15,7 @@ export default function Home() {
 							<Link href={'/db'}>Firestore and Storage</Link>
 						</li>
 						<li>
-							<Link href={'/checkout'}>Stripe Checkout</Link>
+							<Link href={'/checkout'}>PayHere Checkout</Link>
 						</li>
 						<li>
 							<Link href={'/admin'}>Administration Dashboard</Link>
