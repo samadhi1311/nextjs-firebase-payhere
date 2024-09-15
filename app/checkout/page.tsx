@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader } from '@/components/ui/card';
 
 export default function Checkout() {
-	const merchantSecret = 'MTc5MjUyNDg0MDM5NjM0NjUxNjIyMTc2NDc1MDAxMzk5MDM4NzQy';
+	const merchantSecret = 'MzYxNzkxMzQ3MjM2ODMzNDUxMjAzNDUyNDcxMzgwMTAxNjQ4ODQ4Ng';
 	const merchantId = '1228232';
 	const orderId = '12345';
 	const amount: number = 1000;
